@@ -1,0 +1,10 @@
+
+Features:
+
+1) When creating a bank account, a user should provide ssn, balance and account type
+
+2) When opening a checking account, a user must provide at least $100 initial balance
+
+3) When opening a saving account, a user must provide at least $500 initial balance
+
+
